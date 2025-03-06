@@ -1,12 +1,14 @@
 {
   "name": "deanna-rose-website",
   "version": "0.1.0",
+  "homepage": "https://anaiva27.github.io/deanna-rose-coaching/",
   "private": true,
   "dependencies": {
+    "@gsap/react": "^2.1.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
-    "@gsap/react": "^2.1.1",
+    "gh-pages": "^6.3.0",
     "gsap": "^3.12.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -15,6 +17,8 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
