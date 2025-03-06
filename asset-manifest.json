@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/deanna-rose-coaching/static/css/main.be884a4f.css",
+    "main.js": "/deanna-rose-coaching/static/js/main.40f8a491.js",
+    "static/media/image-1.png": "/deanna-rose-coaching/static/media/image-1.2d8336e369e6db9d5067.png",
+    "static/media/image-2.png": "/deanna-rose-coaching/static/media/image-2.b4495c64e05d42f8020b.png",
+    "static/media/image-5.png": "/deanna-rose-coaching/static/media/image-5.2a0d530eaf09341f2a26.png",
+    "static/media/image-4.png": "/deanna-rose-coaching/static/media/image-4.d89dbbf5947b8c904f10.png",
+    "static/media/image-3.png": "/deanna-rose-coaching/static/media/image-3.4045663aed8164592af5.png",
+    "index.html": "/deanna-rose-coaching/index.html",
+    "main.be884a4f.css.map": "/deanna-rose-coaching/static/css/main.be884a4f.css.map",
+    "main.40f8a491.js.map": "/deanna-rose-coaching/static/js/main.40f8a491.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be884a4f.css",
+    "static/js/main.40f8a491.js"
+  ]
+}
